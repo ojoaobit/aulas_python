@@ -1,0 +1,4 @@
+# CONVERTENDO CELSIUS PRA FAHREMHEIT
+celsius = float(input("DIGITE A TEMPERATURA EM CELSIUS: "))
+F = celsius * (9/5) + 32
+print(f"TEMPERATURA EM FAHRENHEIT: {F:.1f}")
